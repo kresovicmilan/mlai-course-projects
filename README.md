@@ -6,7 +6,7 @@ Projects done as part of MLAI course.
 
 For this project the dataset of 400 images of four different classes was used. Each image was of the size 227x227 and in the RGB format, so the total number of features in each image was 227x227x3. The data was loaded and PCA was applied on it. The result of PCA were principal components in order of significance, which were used to discuss how well is the image reconstructed using different number of principal components. Dataset was also projected onto the graph for different pairs of PC and further discussed for which PC is the variance the biggest.
 
-* Link to the dataset: [*link*](http://www.google.com)
+* Link to the dataset: [*Link*](https://drive.google.com/open?id=1mwyj7bwumtS6Rd3SSQ_X893xiaQP-_cm)
 
 ## Support Vector Machines
 
